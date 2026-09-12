@@ -1,8 +1,4 @@
-# --------------------------------------------- #
-# Author: ADAM - +91-9739110917                 #
-# Org: Wezva Technologies                       #
-# Ansible role to AWS cli                       #
-# --------------------------------------------- #
+
 
 - name: Install python3-pip and python3-venv
   apt:
