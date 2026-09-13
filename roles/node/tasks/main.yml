@@ -1,8 +1,4 @@
 # --------------------------------------------- #
-# Author: ADAM - +91-9739110917                 #
-# Org: Wezva Technologies                       #
-# Ansible role to install JDK17, Git & Maven    #
-# --------------------------------------------- #
 
   - name: Apt Update
     apt: update_cache=yes
