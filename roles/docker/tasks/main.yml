@@ -1,8 +1,4 @@
-# --------------------------------------------- #
-# Author: ADAM - +91-9739110917                 #
-# Org: Wezva Technologies                       #
-# Ansible role to install Docker & Trivy        #
-# --------------------------------------------- #
+
 - name: Update Cache 
   package: update_cache=yes
 
